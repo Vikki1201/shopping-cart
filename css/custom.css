@@ -9,3 +9,7 @@ td {
 input {
     width: 80%;
 }
+
+tr:hover {
+    opacity: 0.8;
+}
